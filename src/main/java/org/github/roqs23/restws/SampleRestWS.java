@@ -39,7 +39,7 @@ public class SampleRestWS {
 		return(new SampleObject(
 						ui.getPath(), 
 						ui.getRequestUri().getRawQuery(),
-						"hello to you too!" ));
+						"Hell Tou Too!" ));
 	}
 	
 	/**
